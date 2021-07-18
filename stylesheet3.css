@@ -256,7 +256,7 @@ input[type=checkbox]:checked+label {
     font-size: 16px;
 }
 .navbar-nav > li{
-    padding-left:15px;
+    padding-left:5px;
    
 }
 
